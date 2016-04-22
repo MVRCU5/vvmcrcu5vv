@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>MVRCU5</title>
+</head>
+<body bgcolor="red">
+
+<center><h1><font size="86" font face="Old English Text MT" color="black">
+	Welcome to my website!
+</font></center></h1>
+
+<p><font size="6" font face="Times New Roman" color="black">
+	Hello, my name is Marcus, and I love computers. This is an html website that I made to be able to put links, pictures, files, and whatever else I would want on a website. Enjoy!
+</p></font>
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="https://www.google.com">Google</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="http://mdeezapps.weebly.com/">Marcus' Android</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="http://www.theverge.com/tech">The Verge</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="http://whatismyipaddress.com/">IP Lookup</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="http://www.getpaint.net/index.html">get Paint.net</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="http://www.audacityteam.org/">get Audacity</a>
+</center></p></font>
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="https://notepad-plus-plus.org/">get Notepad++</a>
+</center></p></font>
+
+
+<center><p><font size="6" font face="Times New Roman" color="black">
+	<a href="https://chrome.google.com/webstore/category/apps">Chrome Webstore (Warning: will only work in the Chrome Browser!)</a>
+</center></p></font>
+
+
+</html>
